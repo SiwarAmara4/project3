@@ -1,0 +1,330 @@
+.header{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0.25rem;
+   
+}
+.logo{
+    margin-left: 50%;
+  width: 5%;
+ 
+}
+.logo1{
+    margin-top: 1%;
+    margin-right: 20%;
+   width: 20%;
+   height: 8%;
+}
+.liens{
+    
+    margin-bottom: 5%;
+    border-radius: 5px;
+    color:rgb(158, 150, 150);
+    margin-left: 1%;
+    margin-top: 2%;
+    text-decoration: none;
+}
+.liens:hover{
+    color:rgb(14, 185, 120);
+}
+.liens:visited{
+    color:rgb(14, 185, 120);
+    text-decoration: none;
+}
+h2{
+    color:rgb(14, 185, 120);
+    text-align:  center;
+    font-size: 40px;
+    text-decoration: none;
+    font-style: oblique;
+}
+
+.hey{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 20px;
+    margin-left:5%;
+}
+.parg1{
+    font-size: 120%;
+    margin-left: 5%;
+    text-align:  center;
+}
+.parg2{
+    font-size: 120%;
+    margin-right: 5%;
+    margin-left: 3%;
+    text-align:  center;
+}
+.patient{
+    background-color:rgb(14, 185, 120);
+    width: 280px;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    font-size: 30px;
+    
+    size: 30x;
+    text-align:  center;
+    
+}
+.doctor{
+ background-color:rgb(101, 167, 197);
+width: 280px;
+margin-left: 5%;
+margin-bottom: 5%;
+border-radius: 10px;
+font-size: 30px;
+text-align:  center;
+align-items: center;
+justify-content: center;
+}
+.clinic{
+    background-color:rgb(218, 199, 199);
+    width: 280px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align:  center;
+    
+}
+.opt{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+}
+.deux{
+    justify-content: center;
+}
+select{
+    background-color: transparent;
+}
+.company{
+    color:rgb(14, 185, 120);
+    margin-left: 28%;
+    font-size: 40px;
+}
+.world{
+    background-color: rgb(177, 216, 204);
+}
+.tit{
+    color:rgb(14, 185, 120);
+    margin-left: 28%;
+    font-size: 40px;
+}
+.stit{
+    font-size: 15px;
+    margin-left: 28%;
+}
+h3{
+   font-size: 20px;
+}
+.lead{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.leader{
+    background-color: rgb(241, 237, 231);
+    width: 280px;
+    margin-left: 30%;
+    margin-bottom: 20%;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+    size: 30x;
+}
+
+
+
+.activ{
+    background-color: rgb(241, 237, 231);
+    width: 280px;
+    margin-left: 77%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+    size: 30x;
+}
+
+.pat{
+    background-color: rgb(241, 237, 231);
+    width: 280px;
+    margin-left: 60%;
+    margin-top: 5px;
+    margin-bottom: 1%;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+.global{
+
+}
+.photos1{
+    margin-left: 50%;
+    height: 8%;
+    width: 5%;
+}
+.photos2{
+    width: 5%;
+}
+.photos3{width: 5%;}
+.photos4{width: 5%;}
+.photos5{width: 5%;}
+.photos6{width: 5%;}
+.photos7{width: 5%;}
+.photos8{width: 5%;}
+.photos9{width: 5%;}
+.first{
+    margin-left: 15%;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 10%;
+}
+.second{
+   
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 55%;
+   
+    
+    text-align:  center;
+}
+
+
+
+
+
+
+
+
+.Improve{
+     color:rgb(14, 185, 120);
+    text-align:  center;
+    font-size: 40px;
+}
+.team{
+    color: black;
+    text-align:  center;
+    font-size: 20px;
+}
+.picts{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    
+   
+}
+.phptos{
+    width: 5%;
+    height: 5%;
+}
+.alldivs{
+    
+    justify-content: center;
+   
+}
+.ph1{
+    
+    width: 280px;
+    margin-left: 10%;
+    
+    border-radius: 10px;
+     
+}
+.ph2{
+    
+   width: 280px;
+   margin-left: 5%;
+   
+   border-radius: 10px;
+   
+   }
+   .ph3{
+   
+    width: 280px;
+    margin-left: 5%;
+    
+    border-radius: 10px;
+   }
+
+   .ph4{
+    
+    width: 280px;
+    margin-left: 10%;
+    
+    border-radius: 10px; 
+   }
+   .ph5{
+    width: 280px;
+    margin-left: 5%;
+   
+    border-radius: 10px;
+   
+   }
+   .ph6{
+    width: 280px;
+    margin-left: 5%;
+   
+    border-radius: 10px;
+}
+    .ph7{ 
+    width: 280px;
+margin-left: 10%;
+
+border-radius: 10px;
+
+}
+.ph8{
+ width: 280px;
+    margin-left: 5%;
+   
+    border-radius: 10px;
+   
+}
+img{ border-radius: 5px;}
+.seeop{
+    background-color: rgb(151, 148, 170);
+    margin-left: 70;
+    margin-bottom: 10%;
+    text-decoration: none;
+    color: black;
+
+}
+
+.join_us{
+    color: black;
+    text-align:  center;
+    font-size: 25px;
+   
+}
+.current_op{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 5%;  
+    text-decoration: none;
+}
+
+.btt{
+    background-color: rgb(151, 148, 170);
+   padding: 10px;
+
+}
+.lienn{
+    text-decoration: none;
+    
+}
+
+.footer1{
+    color: rgb(100, 95, 95);
+    size: 30 px;
+    text-align:  center;
+}
